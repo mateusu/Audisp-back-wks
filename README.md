@@ -1,5 +1,5 @@
 # Audisp-back
 
-\n 1- Install Node.js
-\n 2- run npm install
-\n 3- run nodemon
+1- Install Node.js <br />
+2- run npm install <br />
+3- run nodemon
